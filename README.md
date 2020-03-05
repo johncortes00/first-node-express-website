@@ -6,8 +6,8 @@ This is the repository of a simple nodejs real project. The goal of this project
 
 # You will learn this:
 
-How to start a nodejs project
-How to create routes for your server application
-How to use templates engines like ejs, handlebars, pug, etc.
-Call assets from CDN and use static files
-Divide content using partials features from template engines
+<br> How to start a nodejs project
+<br> How to create routes for your server application
+<br> How to use templates engines like ejs, handlebars, pug, etc.
+<br> Call assets from CDN and use static files
+<br> Divide content using partials features from template engines

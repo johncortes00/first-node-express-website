@@ -1,5 +1,3 @@
-"# first-node-express-website"
-
 # Your First Nodejs/Express Website
 
 This is the repository of a simple nodejs real project. The goal of this project is to build a simple website with a dynamic navigation
